@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there �
+This is my first repository .
+Author - Deepak Lamsal�
 
 <!--
 **Deepak-Lamsal/Deepak-Lamsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
